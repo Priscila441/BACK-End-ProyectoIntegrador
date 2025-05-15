@@ -1,0 +1,6 @@
+﻿namespace API_web.Services.Interfaces
+{
+    public interface ICategoryService
+    {
+    }
+}
