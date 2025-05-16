@@ -10,7 +10,7 @@ namespace API_web.Models.DTOs.CartDetailDTO
         public int Amount { get; set; }
 
         public int ProductId { get; set; }
-        [ForeignKey("Cart")]
+
         public int CartId { get; set; }
     }
 }
